@@ -1,0 +1,69 @@
+<style>
+input
+{
+margin-top:20%;
+margin-left:40.40%;
+margin-right:auto;
+margin-bottom:auto;
+}
+table
+{
+margin-top:auto;
+margin-left:40%;
+margin-right:auto;
+margin-bottom:auto;
+}
+body
+{
+background-image:url('cal1.JPG');
+background-repeat:no-repeat;
+background-size:cover;
+}
+   
+ *
+ {
+      margin:2;
+      padding:2;
+   }
+   #button
+   {
+       margin:4px;
+       padding:9px;
+       width: 40px;
+       font-size: 25px;
+       color: antiquewhite;
+       background-color: black;
+       text-align: center;
+       cursor:pointer;
+   }
+   #text
+   {
+       margin:0.15%;
+       margin-left: 40.5%;
+       margin-top: 15%;
+       width: 11.5%;
+       height: 12px;
+       padding:0.7%;
+       border:aqua;
+       font-size: 20px;
+   }
+   #btn
+   {
+       margin:1px;
+       background-color: black;
+       color: antiquewhite;
+       padding:5px;
+       width:42px;
+       height: 50px;
+   }
+  #btns
+  {
+       margin:1px;
+       padding:5px;
+       color: antiquewhite;
+       background-color: black;
+       width:40px;
+       height: 47px;
+
+  }
+</style>
