@@ -21,6 +21,7 @@ const equal= ()=>
 }
 //to empty the input field
 empty = ()=> document.form.text.value="";
+//this function is used to take one step back 
 function backward()    
 {
     const data=document.form.text.value;
